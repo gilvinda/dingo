@@ -6,6 +6,8 @@ public class world {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello world ");
+		int a=20;
+		int b=30;
 	}
 
 }
